@@ -90,7 +90,7 @@ int main()
 
 	int n2 = abs(num2);
 
-	if (n == 0)
+	if (n2 == 0)
 	{
 		textnum2 += "ноль ";
 	}
